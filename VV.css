@@ -7,6 +7,7 @@
 }
 .header_body{
     position: relative;
+    text-align: center;
 }
 .header_image{
     width: 500px;
