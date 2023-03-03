@@ -1,9 +1,10 @@
 .header_body{
     background-image: url(D9D6B706-C84C-4CB5-904F-AF0A1BA4750E.jpeg);
-    align-self: center;
+    background-size: contain;
+    background-repeat: repeat;
 }
 .header{
     text-align: center;
-    font-family: Franklin Gothic Medium;
+    font-family: Franklin Gothic;
     border: 5px solid white;
 }
