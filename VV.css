@@ -1,6 +1,7 @@
 .header{
     position: absolute;
-    text-align: center;
+    top: 10%;
+    left: 100%;
     font-family: Helvetica;
     border: 5px solid white;
 }
