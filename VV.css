@@ -1,7 +1,6 @@
 .header{
     position: absolute;
-    top: 10%;
-    left: 50%;
+    text-align: center;
     font-family: Helvetica;
     border: 5px solid white;
 }
@@ -10,6 +9,6 @@
     text-align: center;
 }
 .header_image{
-    width: 500px;
-    height: 150px;
+    width: 100px;
+    height: 250px;
 }
