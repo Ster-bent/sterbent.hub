@@ -1,10 +1,12 @@
 .header{
     position: absolute;
-    text-align: center;
+    top: 20px;
+    left: 50px;
     font-family: Helvetica;
     border: 5px solid white;
 }
 .header_body{
     text-align: center;
+    position: relative;
 }
 
