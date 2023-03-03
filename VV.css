@@ -1,11 +1,14 @@
 .header{
     position: absolute;
     top: 10%;
-    left: 20%;
+    left: 50%;
     font-family: Helvetica;
     border: 5px solid white;
 }
 .header_body{
-    text-align: center;
     position: relative;
+}
+.header_image{
+    width: 500px;
+    height: 150px;
 }
