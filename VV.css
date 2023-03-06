@@ -5,9 +5,12 @@
     font-family: Helvetica;
     border: 5px solid white;
     color: white;
+    font-size: larger;
 }
 .header_body{
     text-align: center;
     position: relative;
 }
-
+.paragraph_body{
+    background-color:aliceblue;
+}
