@@ -1,9 +1,10 @@
 .header{
     position: absolute;
     top: 10%;
-    left: 40%;
+    left: 30%;
     font-family: Helvetica;
     border: 5px solid white;
+    color: white;
 }
 .header_body{
     text-align: center;
