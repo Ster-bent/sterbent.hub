@@ -47,13 +47,7 @@ div {
     margin-top: 50px;
     
 }
-.top-option {
-    background-color: #202020;
-    border: 5px solid #404040;
-}
-.top-option:hover {
-    border: 8px solid #1b7ced;
-}
+
 .option:hover{
     border: 8px solid #1b7ced;
 }
