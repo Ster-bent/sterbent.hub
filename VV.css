@@ -20,3 +20,7 @@
     font-family: Helvetica;
     text-align: center;
 }
+.image {
+    align-self: center;
+    border: 3px solid darkblue; 
+}
