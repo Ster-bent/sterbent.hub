@@ -33,6 +33,7 @@ p {
 .options{
     margin-top: 50px;
     background-color: #303030;
+    border: 10px solid #303030;
 }
 div {
     background-color: transparent;
@@ -47,4 +48,12 @@ div {
 }
 .option:hover{
     border: 8px solid #1b7ced;
+}
+button {
+    padding: 10px;
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
 }
