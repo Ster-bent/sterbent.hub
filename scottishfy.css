@@ -44,7 +44,8 @@ div {
 .option {
     background-color:#202020;
     border: 5px solid #404040;
-    margin-top: 50px;
+    margin-top: 10px;
+    
 }
 .option:hover{
     border: 8px solid #1b7ced;
