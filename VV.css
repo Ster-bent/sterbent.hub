@@ -1,7 +1,7 @@
 .header{
     text-align: center;
     font-family: Helvetica;
-    border: 5px solid white;
+    border: 5px solid black;
     color: black;
     font-size:100px;
 }
@@ -30,5 +30,5 @@ body{
 }
 .imag {
     height: 500px;
-    width: 1000px;
+    width: 950px;
 }
