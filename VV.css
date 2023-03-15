@@ -9,7 +9,7 @@
     text-align: center;
     position: relative;
 }
-.paragraph_body{
+body{
     align-content: center;
     background-color:aliceblue;
     border: 1px solid darkblue;
