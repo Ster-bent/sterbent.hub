@@ -53,7 +53,7 @@ div {
     border: 8px solid #1b7ced;
 }
 button {
-    align-self: center;
+    text-align: center;
     padding: 10px;
   border: solid black;
   border-width: 0 3px 3px 0;
