@@ -53,9 +53,10 @@ div {
     border: 8px solid #1b7ced;
 }
 button {
+    background-color: #1b7ced;
     text-align: center;
     padding: 10px;
-  border: solid black;
+  border: solid white;
   border-width: 0 3px 3px 0;
   display: inline-block;
   transform: rotate(-45deg);
