@@ -53,6 +53,8 @@ div {
     border: 8px solid #1b7ced;
 }
 button {
+    margin-left: auto;
+    margin-right: auto;
     background-color: #1b7ced;
     text-align: center;
     padding: 10px;
